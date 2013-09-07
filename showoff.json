@@ -1,0 +1,12 @@
+{
+  "name": "WebRTC / Datenspuren 2013",
+  "description": "WebRTC: Eine neue Art von Web? / Datenspuren 2013",
+  "author": "Marius Melzer & Jan Lelis",
+  "pause_msg": "pause",
+  "sections": [
+    {"section":"communication"},
+    {"section":"webrtc"},
+    {"section":"palava"},
+    {"section":"results"}
+  ]
+}

@@ -1,0 +1,19 @@
+1) Install Ruby
+
+   See https://rvm.io
+
+2) Clone this repository
+
+    $ git clone https://github.com/palavatv/talk-datenspuren-webrt.git
+
+3) Install gem dependencies
+
+   $ bundle install
+
+4) Start presentation server
+
+   $ showoff serve
+
+5) Open presentation in Chrome
+
+   At https://localhost:9090
