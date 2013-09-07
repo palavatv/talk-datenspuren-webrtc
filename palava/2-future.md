@@ -1,7 +1,7 @@
 !SLIDE
 
 # palava: Zukunft
-## palava e.V.
+## Gründung palava Verein
 Wird palava.tv betreiben
 
 ## signaling.io
